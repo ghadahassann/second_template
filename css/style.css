@@ -696,6 +696,6 @@ footer span {
     color: var(--titColor);
     display: block;
     text-transform: capitalize;
-    margin-left: 160px;
     padding-bottom: 20px;
+    margin-left: 160px;
 }
